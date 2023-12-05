@@ -1,5 +1,5 @@
 import imgRushdesktop from '../images/Rushdesktop.png';
-import imgWeatherapp from '../images/Weatherapp.png';
+import imgWeatherapp from '../images/weatherapp.png';
 import imgAirbnb from '../images/Airbnb.png';
 
 function Projectcom() {
