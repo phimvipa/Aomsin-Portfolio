@@ -29,7 +29,7 @@ function Aboutmecom() {
 
                 <div className='mt-3 font-normal text-gray-900 text-[17px] text-left'>
                   <p>Tect Skills : HTML / CSS / JS / React / NodeJS / ExpressJS / MongoDB / SQL / Git</p>
-                  <p>R / Python / C# / PowerBI / Cypress</p>
+                  <p>R / Python / PowerBI</p>
                   <p>Soft Skills : Growth Mindset / Problem-Solving / Empathy / Planning</p>
                   <p>Etc. : Drawing (Digital & Watercolor) / Figma / Baking</p>
                 </div>
