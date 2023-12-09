@@ -1,4 +1,4 @@
-import CV from '../../src/assets/CV.pdf'
+import CV from '../assets/CV.pdf';
 import imgAomsin from '../images/Aomsinmain.jpg'
 import Githubicon from '../assets/Githubicon.svg';
 import Linkicon from '../assets/Linkedinicon.svg';
